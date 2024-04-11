@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="me.martiii.simple.net.protocol.server" type="repository">
+    <properties maven-id="me.martiii:simple-net-protocol-server:1.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/me/martiii/simple-net-protocol-server/1.0/simple-net-protocol-server-1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

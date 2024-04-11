@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="net.officefloor.eclipse.jdbc" type="repository">
+    <properties maven-id="net.officefloor.eclipse:net.officefloor.jdbc:1.4.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/officefloor/eclipse/net.officefloor.jdbc/1.4.0/net.officefloor.jdbc-1.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/officefloor/plugin/officeplugin_jdbc/1.4.0/officeplugin_jdbc-1.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/officefloor/core/officecompiler/1.4.0/officecompiler-1.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/officefloor/core/officeframe/1.4.0/officeframe-1.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/officefloor/core/officexml/1.4.0/officexml-1.4.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/net/officefloor/core/officemodelgen/1.4.0/officemodelgen-1.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

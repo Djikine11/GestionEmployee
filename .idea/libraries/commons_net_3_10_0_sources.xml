@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="commons-net-3.10.0-sources">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../commons-net-3.10.0-bin/commons-net-3.10.0/commons-net-3.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../commons-net-3.10.0-bin/commons-net-3.10.0/commons-net-examples-3.10.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../commons-net-3.10.0-bin/commons-net-3.10.0/commons-net-3.10.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

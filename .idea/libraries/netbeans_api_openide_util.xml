@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="netbeans.api.openide.util" type="repository">
+    <properties maven-id="org.netbeans.api:org-openide-util:RELEASE170" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/api/org-openide-util/RELEASE170/org-openide-util-RELEASE170.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/netbeans/api/org-openide-util-lookup/RELEASE170/org-openide-util-lookup-RELEASE170.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GestionEmployee.iml" filepath="$PROJECT_DIR$/GestionEmployee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../sqljdbc_12.6.1.0_fra/sqljdbc_12.6/fra/jars/jars.iml" filepath="$PROJECT_DIR$/../../sqljdbc_12.6.1.0_fra/sqljdbc_12.6/fra/jars/jars.iml" />
+    </modules>
+  </component>
+</project>
